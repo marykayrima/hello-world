@@ -1,2 +1,2 @@
 # hello-world
-may first demo repository
+may first repository
